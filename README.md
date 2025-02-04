@@ -1,6 +1,7 @@
 # User_details_of_bank_problem
 ## Introduction
 Making a program on real life cases In C++ which totaly based on the user input and scalable where customer can be created with their unique account number<br>
+file : https://github.com/devandrudra/user_details_of_bank_problem/blob/main/bank_acc_problem_remove_duplicacy.cpp
 ## Required setups
 1.IDE with installed g++ compiler and ensure all setups have done<br>
 2.libraries: <iostream>, <vector>, using namespace std;<br>
